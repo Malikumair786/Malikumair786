@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftonmoy-Org%2Ftonmoy-Org&psig=AOvVaw2wrQbiPyAlYTQTbFv94z11&ust=1712697990866000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPif7K3Hs4UDFQAAAAAdAAAAABAE)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Umair Malik</h1>
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D03AQFvS3Sr_3dE7w/profile-displayphoto-shrink_400_400/0/1712611358234?e=1718236800&v=beta&t=Kg1c6ct2iFBtjGUQ53ZjSJddbxZH4LokRUl1O8gATnc")
